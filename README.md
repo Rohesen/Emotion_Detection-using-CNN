@@ -2,7 +2,7 @@
 
 ![emotion_detection](https://github.com/Rohesen/Emotion_Detection-using-CNN/blob/main/Screenshot%20(32).png)
 ![emotion_detection](https://github.com/Rohesen/Emotion_Detection-using-CNN/blob/main/Screenshot%20(19).png)
-
+![emotion_detection](https://github.com/Rohesen/Emotion_Detection-using-CNN/blob/main/Screenshot%20(17).png)
 ### Packages need to be installed
 - pip install numpy
 - pip install opencv-python
